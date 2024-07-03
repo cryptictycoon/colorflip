@@ -1,0 +1,16 @@
+li{
+    display: inline-flex;
+    list-style: none;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-right:5%;
+    flex-wrap: wrap;
+    
+}
+nav{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
